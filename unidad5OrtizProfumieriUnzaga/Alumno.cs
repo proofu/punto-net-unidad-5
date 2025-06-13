@@ -73,11 +73,11 @@ namespace unidad5OrtizProfumieriUnzaga
         {
             return $"Nombre:{Nombre} Apellido:{Apellido}"; 
         }
-        public bool validarEdad()
+        private bool validarEdad()
         {
             return Edad > 0;
         }
-        public bool validarGrado()
+        private bool validarGrado()
         {
             return Grado >= 1 && Grado <= 7;
         }
