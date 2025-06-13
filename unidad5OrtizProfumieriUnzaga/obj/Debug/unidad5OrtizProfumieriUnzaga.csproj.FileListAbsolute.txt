@@ -1,0 +1,7 @@
+E:\.NET_UTN\unidad5\unidad5OrtizProfumieriUnzaga\unidad5OrtizProfumieriUnzaga\bin\Debug\unidad5OrtizProfumieriUnzaga.exe.config
+E:\.NET_UTN\unidad5\unidad5OrtizProfumieriUnzaga\unidad5OrtizProfumieriUnzaga\bin\Debug\unidad5OrtizProfumieriUnzaga.exe
+E:\.NET_UTN\unidad5\unidad5OrtizProfumieriUnzaga\unidad5OrtizProfumieriUnzaga\bin\Debug\unidad5OrtizProfumieriUnzaga.pdb
+E:\.NET_UTN\unidad5\unidad5OrtizProfumieriUnzaga\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.csproj.AssemblyReference.cache
+E:\.NET_UTN\unidad5\unidad5OrtizProfumieriUnzaga\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.csproj.CoreCompileInputs.cache
+E:\.NET_UTN\unidad5\unidad5OrtizProfumieriUnzaga\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.exe
+E:\.NET_UTN\unidad5\unidad5OrtizProfumieriUnzaga\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.pdb
