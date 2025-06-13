@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Linq;
 using System.Runtime.ConstrainedExecution;
 using System.Text;
@@ -24,10 +25,49 @@ namespace unidad5OrtizProfumieriUnzaga
             //  3.Crear un método para validar que el grado este entre 1 y 7.
             //6.Crear un programa en donde el usuario ingrese 3 alumnos validando que la edad y el grado contengan
             //valores correctos y luego muestre todos los datos usando el método ToString().
+                       
+            List<Alumno> listaAlumno = new List<Alumno>();
 
-            Direccion direccion = new Direccion("Vera","1234","7","B");
-            Alumno alumno = new Alumno(1,"sebastian","ortiz",6,29,direccion);
-            Console.WriteLine(alumno.ToString());
+            int cantidadAlumno = 3;
+            for(int i = 0; i < cantidadAlumno; i++)
+            {
+               
+                //Alumno
+                Console.WriteLine($"Ingreso del alumno N° {i + 1}   ");
+
+                Console.WriteLine($"identificador: { i+1 }");
+                int identificador = i + 1;
+
+                Console.WriteLine("Nombre: ");
+                string nombre = Console.ReadLine();
+
+                Console.WriteLine("Apellido: ");
+                string apellido = Console.ReadLine();
+
+
+                Console.WriteLine("Edad: ");
+                int edad = int.Parse(Console.ReadLine());
+
+                Console.WriteLine("grado : ");
+                int grado = int.Parse(Console.ReadLine());
+
+                //Dirrección
+                Direccion direccion = new Direccion("Av.Siempre viva", "1234", "7", "B");
+
+
+                Alumno alumno = new Alumno(identificador, nombre, apellido, grado , edad, direccion);
+
+                listaAlumno.Add( alumno );
+            }
+
+
+
+            Console.WriteLine("--------------- Lista de Alumnos ---------------");
+            foreach(var alumno in listaAlumno)
+            {
+                Console.WriteLine(alumno.ToString());
+
+            }
             Console.ReadKey();
                  
         }

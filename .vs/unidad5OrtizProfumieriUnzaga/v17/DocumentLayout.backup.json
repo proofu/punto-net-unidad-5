@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\inaki\\Desktop\\punto-net-unidad-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E76448F4-36A2-497D-B941-DEFF81E040E9}|unidad5OrtizProfumieriUnzaga\\unidad5OrtizProfumieriUnzaga.csproj|c:\\users\\inaki\\desktop\\punto-net-unidad-5\\unidad5ortizprofumieriunzaga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76448F4-36A2-497D-B941-DEFF81E040E9}|unidad5OrtizProfumieriUnzaga\\unidad5OrtizProfumieriUnzaga.csproj|solutionrelative:unidad5ortizprofumieriunzaga\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76448F4-36A2-497D-B941-DEFF81E040E9}|unidad5OrtizProfumieriUnzaga\\unidad5OrtizProfumieriUnzaga.csproj|C:\\Users\\inaki\\Desktop\\punto-net-unidad-5\\unidad5ortizprofumieriunzaga\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76448F4-36A2-497D-B941-DEFF81E040E9}|unidad5OrtizProfumieriUnzaga\\unidad5OrtizProfumieriUnzaga.csproj|solutionrelative:unidad5ortizprofumieriunzaga\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76448F4-36A2-497D-B941-DEFF81E040E9}|unidad5OrtizProfumieriUnzaga\\unidad5OrtizProfumieriUnzaga.csproj|C:\\Users\\inaki\\Desktop\\punto-net-unidad-5\\unidad5ortizprofumieriunzaga\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76448F4-36A2-497D-B941-DEFF81E040E9}|unidad5OrtizProfumieriUnzaga\\unidad5OrtizProfumieriUnzaga.csproj|solutionrelative:unidad5ortizprofumieriunzaga\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\Desktop\\punto-net-unidad-5\\unidad5OrtizProfumieriUnzaga\\Alumno.cs",
+              "RelativeDocumentMoniker": "unidad5OrtizProfumieriUnzaga\\Alumno.cs",
+              "ToolTip": "C:\\Users\\inaki\\Desktop\\punto-net-unidad-5\\unidad5OrtizProfumieriUnzaga\\Alumno.cs",
+              "RelativeToolTip": "unidad5OrtizProfumieriUnzaga\\Alumno.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:36:00.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Direccion.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\Desktop\\punto-net-unidad-5\\unidad5OrtizProfumieriUnzaga\\Direccion.cs",
+              "RelativeDocumentMoniker": "unidad5OrtizProfumieriUnzaga\\Direccion.cs",
+              "ToolTip": "C:\\Users\\inaki\\Desktop\\punto-net-unidad-5\\unidad5OrtizProfumieriUnzaga\\Direccion.cs",
+              "RelativeToolTip": "unidad5OrtizProfumieriUnzaga\\Direccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:36:01.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\inaki\\Desktop\\punto-net-unidad-5\\unidad5OrtizProfumieriUnzaga\\Program.cs",
+              "RelativeDocumentMoniker": "unidad5OrtizProfumieriUnzaga\\Program.cs",
+              "ToolTip": "C:\\Users\\inaki\\Desktop\\punto-net-unidad-5\\unidad5OrtizProfumieriUnzaga\\Program.cs",
+              "RelativeToolTip": "unidad5OrtizProfumieriUnzaga\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T21:36:01.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

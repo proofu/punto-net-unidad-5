@@ -12,3 +12,10 @@ C:\Users\alfred\Source\Repos\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\obj
 C:\Users\alfred\Source\Repos\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.csproj.CoreCompileInputs.cache
 C:\Users\alfred\Source\Repos\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.exe
 C:\Users\alfred\Source\Repos\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.pdb
+C:\Users\inaki\Desktop\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\bin\Debug\unidad5OrtizProfumieriUnzaga.exe.config
+C:\Users\inaki\Desktop\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\bin\Debug\unidad5OrtizProfumieriUnzaga.exe
+C:\Users\inaki\Desktop\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\bin\Debug\unidad5OrtizProfumieriUnzaga.pdb
+C:\Users\inaki\Desktop\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.csproj.AssemblyReference.cache
+C:\Users\inaki\Desktop\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.csproj.CoreCompileInputs.cache
+C:\Users\inaki\Desktop\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.exe
+C:\Users\inaki\Desktop\punto-net-unidad-5\unidad5OrtizProfumieriUnzaga\obj\Debug\unidad5OrtizProfumieriUnzaga.pdb
