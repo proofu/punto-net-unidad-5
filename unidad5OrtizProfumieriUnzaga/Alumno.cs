@@ -83,7 +83,8 @@ namespace unidad5OrtizProfumieriUnzaga
         }
         public override string ToString()
         {
-            return $"id:{Id} nombre:{Nombre} apellido:{Apellido} edad:{Edad} grado:{Grado} {Direccion}";
+            return $"ID: {Id}  Nombre: {Nombre}  Apellido: {Apellido}  Edad: {Edad}  Grado: {Grado} \n{Direccion} ";
+            
         }
     }
 }

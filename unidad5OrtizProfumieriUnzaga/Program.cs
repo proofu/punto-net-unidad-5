@@ -25,7 +25,7 @@ namespace unidad5OrtizProfumieriUnzaga
             //6.Crear un programa en donde el usuario ingrese 3 alumnos validando que la edad y el grado contengan
             //valores correctos y luego muestre todos los datos usando el método ToString().
 
-            Direccion direccion = new Direccion("Vera","1234","","");
+            Direccion direccion = new Direccion("Vera","1234","7","B");
             Alumno alumno = new Alumno(1,"sebastian","ortiz",6,29,direccion);
             Console.WriteLine(alumno.ToString());
             Console.ReadKey();

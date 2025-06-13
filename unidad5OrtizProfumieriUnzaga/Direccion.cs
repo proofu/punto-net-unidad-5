@@ -22,8 +22,8 @@ namespace unidad5OrtizProfumieriUnzaga
         }
 
         public override string ToString()
-        {
-            return $" calle:{calle} numero:{numero} piso:{piso} departamento:{departamento}";
+        {            
+            return $"Calle: {calle}  Numero: {numero}  Piso: {piso}  Departamento:{departamento}";
         }
     }
 }
